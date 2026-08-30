@@ -1,1 +1,1 @@
-Code solutions for learncpp.com solutions
+Code solutions for learncpp.com
