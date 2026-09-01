@@ -148,9 +148,11 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="io.cpp" />
     <ClCompile Include="hyp.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="switcher.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="switcher.h" />
+    <ClInclude Include="hyp.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

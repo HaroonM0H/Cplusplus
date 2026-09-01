@@ -1,7 +1,8 @@
+#include "hyp.h"
 #include <cmath>
 #include <iostream>
 
-int main() {
+void buh() {
 	double a{};
 	double b{};
 
