@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="io.cpp" />
+    <ClCompile Include="hyp.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>

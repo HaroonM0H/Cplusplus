@@ -1,20 +1,21 @@
-#include <cmath>
 #include <iostream>
 
+// easier to read than if statements
 int main() {
-	double a{};
-	double b{};
+	int month;
+	std::cout << "Enter a number: ";
+	std::cin >> month;
 
-	std::cout << "Enter the triangle base: ";
-	std::cin >> a;
-	std::cout << "Enter the triangle base: ";
-	std::cin >> b;
+	switch (month) {
+	case 1:
+		std::cout << "It is Jan";
+		break;
+	case 2:
+		std::cout << "It is feb";
+		break;
 
-	a = pow(a, 2);
-	b = pow(b, 2);
-
-	std::cout << "The length of the hypotenuse is: " << sqrt(a + b) << " YEP.";
-
+	default:
+		std::cout << "only a number between 1-12";
+	}
+	
 }
-
-//simple program to calculate hypotenuse of a triangle
