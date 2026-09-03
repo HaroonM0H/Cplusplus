@@ -1,3 +1,4 @@
+#include "linearsearch.h"
 #include "runbank.h"
 #include "hyp.h"
 #include "switcher.h"
@@ -8,7 +9,7 @@ int main()
 
     //hypCalc();
     //switchCaseExample();
-    runBank();
-
+    //runBank();
+    search();
     return 0;
 }
