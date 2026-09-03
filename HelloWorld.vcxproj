@@ -148,9 +148,11 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="io.cpp" />
     <ClCompile Include="hyp.cpp" />
+    <ClCompile Include="runbank.cpp" />
     <ClCompile Include="switcher.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="runbank.h" />
     <ClInclude Include="switcher.h" />
     <ClInclude Include="hyp.h" />
     <ClInclude Include="io.h" />

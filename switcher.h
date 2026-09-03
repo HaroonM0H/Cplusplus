@@ -1,3 +1,3 @@
 #pragma once
 
-void buh2();
+void switchCaseExample();

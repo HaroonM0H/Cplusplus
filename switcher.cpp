@@ -2,7 +2,7 @@
 #include <iostream>
 
 // easier to read than if statements
-void buh2() {
+void switchCaseExample() {
 	int month;
 	std::cout << "Enter a number: ";
 	std::cin >> month;
@@ -14,7 +14,7 @@ void buh2() {
 	case 2:
 		std::cout << "It is feb\n";
 		break;
-
+		// add in more cases for other months
 	default:
 		std::cout << "only a number between 1-12";
 	}

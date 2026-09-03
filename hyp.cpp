@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iostream>
 
-void buh() {
+void hypCalc() {
 	double a{};
 	double b{};
 
