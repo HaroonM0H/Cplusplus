@@ -1,3 +1,4 @@
+#include "bubblesort.h"
 #include "linearsearch.h"
 #include "runbank.h"
 #include "hyp.h"
@@ -10,6 +11,7 @@ int main()
     //hypCalc();
     //switchCaseExample();
     //runBank();
-    search();
+    //search();
+    bubblesort();
     return 0;
 }

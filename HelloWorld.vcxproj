@@ -145,6 +145,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bubblesort.cpp" />
     <ClCompile Include="linearsearch.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="io.cpp" />
@@ -153,6 +154,7 @@
     <ClCompile Include="switcher.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="bubblesort.h" />
     <ClInclude Include="linearsearch.h" />
     <ClInclude Include="runbank.h" />
     <ClInclude Include="switcher.h" />
