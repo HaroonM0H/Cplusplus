@@ -150,12 +150,14 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="io.cpp" />
     <ClCompile Include="hyp.cpp" />
+    <ClCompile Include="quizgame.cpp" />
     <ClCompile Include="runbank.cpp" />
     <ClCompile Include="switcher.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bubblesort.h" />
     <ClInclude Include="linearsearch.h" />
+    <ClInclude Include="quizgame.h" />
     <ClInclude Include="runbank.h" />
     <ClInclude Include="switcher.h" />
     <ClInclude Include="hyp.h" />

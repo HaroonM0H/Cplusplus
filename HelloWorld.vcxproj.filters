@@ -36,6 +36,9 @@
     <ClCompile Include="bubblesort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="quizgame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="io.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="bubblesort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quizgame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
