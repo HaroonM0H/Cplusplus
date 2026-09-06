@@ -1,3 +1,4 @@
+#include "quizgame.h"
 #include "bubblesort.h"
 #include "linearsearch.h"
 #include "runbank.h"
@@ -13,7 +14,7 @@ int main()
     //runBank();
     //search();
     //bubblesort();
-    //quizGame();
+    quizGame();
 
     return 0;
 }
