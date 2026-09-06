@@ -1,7 +1,7 @@
 #include "bubblesort.h"
 #include <iostream>
 
-int bubblesort() {
+void bubblesort() {
 	int arr[] = { 2, 5, 1, 5 , 7, 3, 8 };
 	int size = sizeof(arr) / sizeof(arr[0]);
 
@@ -15,7 +15,6 @@ int bubblesort() {
 		std::cout << element << " ";
 	}
 
-	return 0;
 }
 
 void sort(int array[], int size) {

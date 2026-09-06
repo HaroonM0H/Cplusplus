@@ -2,7 +2,7 @@
 #include <iostream>
 
 
-int quizGame() {
+void quizGame() {
 
 	std::string questions[] = { "1. What year were you born? ",
 								"What month were you born? ",
@@ -44,6 +44,6 @@ int quizGame() {
 	std::cout << "Results: " << score << "/" << size << "\n";
 	std::cout << "Percentage: " << (score /(double)size) * 100 << "%";
 
-	return 0;
+
 
 }

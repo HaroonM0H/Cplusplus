@@ -1,4 +1,4 @@
 #pragma once
 
-int bubblesort();
+void bubblesort();
 void sort(int array[], int size);

@@ -1,7 +1,7 @@
 #include "runbank.h"
 #include <iostream>
 
-int runBank() {
+void runBank() {
 	double balance = 0;
 	int choice = 0;
 
@@ -33,7 +33,6 @@ int runBank() {
 
 	} while (choice != 4);
 
-	return 0;
 
 }
 

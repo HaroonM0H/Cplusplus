@@ -1,4 +1,4 @@
 #pragma once
 
-int search();
+void search();
 int searchArray(int arr[], int size, int target);

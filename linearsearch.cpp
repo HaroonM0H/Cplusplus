@@ -2,7 +2,7 @@
 #include <iostream>
 
 
-int search() {
+void search() {
 	int target{};
 	int index{};
 	int arr[] = { 1, 3, 4, 5, 7, 8 };
@@ -21,7 +21,6 @@ int search() {
 	}
 
 	
-	return 0;
 }
 
 int searchArray(int arr[],int size, int target) {
