@@ -39,6 +39,9 @@
     <ClCompile Include="quizgame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="creditvalidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="io.h">
@@ -60,6 +63,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="quizgame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="creditvalidator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,3 +1,4 @@
+#include "creditvalidator.h"
 #include "quizgame.h"
 #include "bubblesort.h"
 #include "linearsearch.h"
@@ -14,7 +15,8 @@ int main()
     //runBank();
     //search();
     //bubblesort();
-    quizGame();
-
+    //quizGame();
+    creditValidator();
+        
     return 0;
 }
