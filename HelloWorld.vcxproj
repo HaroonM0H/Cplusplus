@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="bubblesort.cpp" />
     <ClCompile Include="creditvalidator.cpp" />
+    <ClCompile Include="FunctionTemplate.cpp" />
     <ClCompile Include="linearsearch.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="io.cpp" />
@@ -158,6 +159,7 @@
   <ItemGroup>
     <ClInclude Include="bubblesort.h" />
     <ClInclude Include="creditvalidator.h" />
+    <ClInclude Include="FunctionTemplate.h" />
     <ClInclude Include="linearsearch.h" />
     <ClInclude Include="quizgame.h" />
     <ClInclude Include="runbank.h" />

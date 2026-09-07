@@ -1,3 +1,4 @@
+#include "FunctionTemplate.h"
 #include "creditvalidator.h"
 #include "quizgame.h"
 #include "bubblesort.h"
@@ -16,8 +17,8 @@ int main()
     //search();
     //bubblesort();
     //quizGame();
-    creditValidator();
-
+    //creditValidator();
+    FunctionTemplate();
         
     return 0;
 }
